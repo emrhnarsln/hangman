@@ -37,4 +37,4 @@ screenshots/
 
 | Ana Ekran | Oyun Ekranı (Açık Tema) | Oyun Ekranı (Karanlık Tema) |
 |-----------|--------------------------|------------------------------|
-| ![home](screenshots/home.png) | ![light](screenshots/game_light.png) | ![dark](screenshots/game_dark.png) |
+| ![home](/lib/screenshots/home.png) | ![light](/lib/screenshots/game_light.png) | ![dark](/lib/screenshots/game_dark.png) |
