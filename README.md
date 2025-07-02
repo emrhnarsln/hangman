@@ -33,8 +33,8 @@ screenshots/
 ├── game_light.png
 ├── game_dark.png
 
-## 🖼️ Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
 
-| Ana Ekran        | Oyun Ekranı (Açık Tema) | Oyun Ekranı (Karanlık Tema) |
-|------------------|--------------------------|------------------------------|
+| Ana Ekran | Oyun Ekranı (Açık Tema) | Oyun Ekranı (Karanlık Tema) |
+|-----------|--------------------------|------------------------------|
 | ![home](screenshots/home.png) | ![light](screenshots/game_light.png) | ![dark](screenshots/game_dark.png) |
